@@ -11,8 +11,8 @@ const calistoga = Calistoga({
 });
 
 export const metadata: Metadata = {
-  title: "Template Frontend",
-  description: "Frontend template for Next.js",
+  title: "Arash's Template Frontend",
+  description: "Arash's Frontend template for Next.js",
 };
 
 export default function RootLayout({
